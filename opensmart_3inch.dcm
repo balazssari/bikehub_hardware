@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAN1402
+D  Fault Protected CAN Transceiver with CAN FD, 2Mbps, 5V supply, standby mode, VSON-8/SOIC-8
+K  Fault Protected CAN Transceiver with CAN FD
+F http://www.ti.com/lit/ds/symlink/tcan1042h.pdf
+$ENDCMP
+#
+$CMP TCAN330G_copy
+D High-Speed CAN Transceiver with CAN FD, 5Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8
+K High-Speed CAN Transceiver
+F http://www.ti.com/lit/ds/symlink/tcan337.pdf
+$ENDCMP
+#
+#End Doc Library

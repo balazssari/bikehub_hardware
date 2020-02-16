@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name opensmart_3inch)(type Legacy)(uri C:/Users/Balazs/OneDrive/KiCad/bikehub/opensmart_3inch.lib)(options "")(descr ""))
+  (lib (name bikehub-rescue)(type Legacy)(uri ${KIPRJMOD}/bikehub-rescue.lib)(options "")(descr ""))
+)
